@@ -1,0 +1,215 @@
+{
+  "problem_list": [
+    {
+      "name": "puzzle_1",
+      "jumble": [
+        {
+          "word": "nagld",
+          "locations": [
+            1,
+            3,
+            4
+          ]
+        },
+        {
+          "word": "ramoj",
+          "locations": [
+            2,
+            3
+          ]
+        },
+        {
+          "word": "camble",
+          "locations": [
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "word": "wraley",
+          "locations": [
+            0,
+            2,
+            4
+          ]
+        }
+      ],
+      "target": [
+        3,
+        4,
+        4
+      ]
+    },
+    {
+      "name": "puzzle_2",
+      "jumble": [
+        {
+          "word": "bnedl",
+          "locations": [
+            0,
+            4
+          ]
+        },
+        {
+          "word": "idova",
+          "locations": [
+            0,
+            3,
+            4
+          ]
+        },
+        {
+          "word": "seheyc",
+          "locations": [
+            1,
+            5
+          ]
+        },
+        {
+          "word": "aracem",
+          "locations": [
+            1,
+            4,
+            5
+          ]
+        }
+      ],
+      "target": [
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "name": "puzzle_3",
+      "jumble": [
+        {
+          "word": "shast",
+          "locations": [
+            0,
+            3,
+            4
+          ]
+        },
+        {
+          "word": "doore",
+          "locations": [
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "word": "ditnic",
+          "locations": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "word": "catili",
+          "locations": [
+            0,
+            2,
+            5
+          ]
+        }
+      ],
+      "target": [
+        4,
+        8
+      ]
+    },
+    {
+      "name": "puzzle_4",
+      "jumble": [
+        {
+          "word": "knidy",
+          "locations": [
+            0,
+            1
+          ]
+        },
+        {
+          "word": "legia",
+          "locations": [
+            0,
+            2
+          ]
+        },
+        {
+          "word": "cronee",
+          "locations": [
+            1,
+            3
+          ]
+        },
+        {
+          "word": "tuvedo",
+          "locations": [
+            0,
+            5
+          ]
+        }
+      ],
+      "target": [
+        8
+      ]
+    },
+    {
+      "name": "puzzle_5",
+      "jumble": [
+        {
+          "word": "gyrint",
+          "locations": [
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "word": "drivet",
+          "locations": [
+            2,
+            5
+          ]
+        },
+        {
+          "word": "snamea",
+          "locations": [
+            0,
+            5
+          ]
+        },
+        {
+          "word": "ceedit",
+          "locations": [
+            1,
+            3,
+            5
+          ]
+        },
+        {
+          "word": "sowdah",
+          "locations": [
+            0,
+            3
+          ]
+        },
+        {
+          "word": "elchek",
+          "locations": [
+            1,
+            5
+          ]
+        }
+      ],
+      "target": [
+        6,
+        8
+      ]
+    }
+  ]
+}
