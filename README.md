@@ -1,4 +1,4 @@
-# jumble_solver
+# Jumble Solver
 This application to solve jumble puzzles.
 
 - To run this application please run the following commad  
